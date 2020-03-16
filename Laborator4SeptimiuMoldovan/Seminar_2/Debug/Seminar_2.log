@@ -1,0 +1,5 @@
+﻿  Repo.cpp
+  Repo.h
+  Generating Code...
+Debug\Repo.obj : warning LNK4042: object specified more than once; extras ignored
+  Seminar_2.vcxproj -> C:\Users\admin\Downloads\Seminar_2\Debug\Seminar_2.exe
