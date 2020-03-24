@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Operations.cpp" />
+    <ClCompile Include="Repo.cpp" />
+    <ClCompile Include="Tests.cpp" />
+    <ClCompile Include="Repo.h" />
+    <ClCompile Include="ui.cpp" />
+    <ClCompile Include="service.cpp" />
+    <ClCompile Include="Film.cpp" />
+    <ClCompile Include="auxiliar.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Operations.h" />
+    <ClInclude Include="Tests.h" />
+    <ClInclude Include="ui.h" />
+    <ClInclude Include="service.h" />
+    <ClInclude Include="Film.h" />
+    <ClInclude Include="auxiliar.h" />
+  </ItemGroup>
+</Project>
